@@ -1,3 +1,4 @@
+![logo](https://github.com/prince-kushwaha945/prince-kushwaha945/blob/main/My%20Github%20Banner%201.png)
 <h1 align="center">Hi 👋, I'm Prince Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
