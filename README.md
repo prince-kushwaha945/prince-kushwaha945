@@ -1,4 +1,3 @@
-![logo](https://github.com/prince-kushwaha945/prince-kushwaha945/blob/main/My%20Github%20Banner%201.png)
 
 <h1 align="center">Hi 👋, I'm Prince Kushwaha</h1>
 <h3 align="center">I am B.Tech(CSE) 4rd-year student from Vindhya institute of technology and science Satna. I am a Front-end Developer with a passion for creating websites.</h3>
